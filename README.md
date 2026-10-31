@@ -12,17 +12,17 @@ My primary areas of interest include Offensive Security, Red Teaming, Vulnerabil
 
 ## Featured Projects
 Some of my major projects include:
-## 1. PortScanner
+## 1. [𝗣𝗢𝗥𝗧 𝗦𝗖𝗔𝗡𝗡𝗘𝗥](https://github.com/xss-pushpensh/portscanner)
 A Python-based network scanning tool designed to identify open ports and understand network services running on target systems. It helps explore TCP-based communication and basic network reconnaissance. Developed as a practical project to strengthen networking and security fundamentals.
-## 2. eBPF-NetSec
+## 2. [𝗞𝗘𝗥𝗡𝗘𝗟 𝗟𝗘𝗩𝗘𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞 𝗧𝗛𝗥𝗘𝗔𝗧 𝗗𝗘𝗧𝗘𝗖𝗧𝗜𝗢𝗡 𝗪𝗜𝗧𝗛 𝗲𝗕𝗣𝗙](https://github.com/xss-pushpensh/ebpf-netsec)
 A kernel-level network security project focused on monitoring network activity and identifying potentially suspicious traffic using eBPF. It explores how Linux kernel-level observability can support real-time network threat detection and security monitoring.
-## 3. RedTeam-Product-Bridge
+## 3. [𝗥𝗘𝗗 𝗧𝗘𝗔𝗠 𝗧𝗢 𝗣𝗥𝗢𝗗𝗨𝗖𝗧 𝗕𝗥𝗜𝗗𝗚𝗘](https://github.com/xss-pushpensh/redteam-product-bridge)
 A cybersecurity project focused on connecting offensive security testing with product security improvement. It aims to bridge the gap between identifying vulnerabilities and helping development teams understand and address security weaknesses.
-## 4. OffenSure
+## 4. [𝗢𝗙𝗙𝗘𝗡𝗦𝗨𝗥𝗘 – 𝗢𝗙𝗙𝗘𝗡𝗦𝗜𝗩𝗘 𝗣𝗥𝗢𝗗𝗨𝗖𝗧 𝗦𝗘𝗖𝗨𝗥𝗜𝗧𝗬 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠](https://github.com/xss-pushpensh/OffenSure)
 An Offensive Product Security Platform designed to explore security testing and vulnerability assessment within product environments. It focuses on bringing offensive security concepts into a structured product security workflow.
-## 5. LinuxHarden
+## 5. [𝗟𝗜𝗡𝗨𝗫 𝗛𝗔𝗥𝗗𝗘𝗡𝗜𝗡𝗚](https://github.com/xss-pushpensh/Linuxharden)
 A Linux system hardening project focused on improving system security through configuration checks and security best practices. It explores areas such as user permissions, system configurations, access control, and reducing unnecessary security exposure.
-## 6. SupplyGuard
+## 6. [𝗖𝗜/𝗖𝗗 𝗦𝗨𝗣𝗣𝗟𝗬 𝗖𝗛𝗔𝗜𝗡 𝗔𝗧𝗧𝗔𝗖𝗞 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗢𝗥 + 𝗔𝗨𝗧𝗢-𝗥𝗘𝗠𝗘𝗗𝗜𝗔𝗧𝗢𝗥](https://github.com/xss-pushpensh/SupplyGuard)
 A CI/CD Supply Chain Security project focused on understanding software supply chain risks and pipeline security. It explores attack simulation, security validation, and automated remediation concepts to help improve the security of software delivery workflows.
 Explore my GitHub repositories for more details, implementations, and ongoing work.
 
