@@ -1,6 +1,5 @@
 # Hi, I'm Pushpensh 👋
 I'm a Cybersecurity Enthusiast specializing in Offensive Security and Computer Networking. I'm currently learning Vulnerability Assessment and Penetration Testing (VAPT) and actively participating in Capture The Flag (CTF) challenges on TryHackMe.
-TryHackMe: tryhackme.com/p/xss.pushpensh
 <!-- Snake Game Repo View -->
 
 <div align="center">
